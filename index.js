@@ -24,6 +24,6 @@ function removeFirstCat(){
     return copyOfCats
 }
 function removeLastCat(){
-    const copyOfCats = cats.slice(0,2)
-    return copyOfCats
+    const copyOfCats = cats.slice(0,2);
+    return copyOfCats;
 }
